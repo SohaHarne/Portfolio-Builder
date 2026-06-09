@@ -1,0 +1,31 @@
+.certificate-section {
+  margin-top: 30px;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+}
+
+.certificate-section h2 {
+  margin-bottom: 15px;
+}
+
+.certificate-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #2563eb;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.certificate-list {
+  margin-top: 20px;
+}
+
+.certificate-card {
+  padding: 12px;
+  margin-bottom: 10px;
+  background: #f3f4f6;
+  border-radius: 8px;
+}
