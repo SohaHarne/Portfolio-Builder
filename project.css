@@ -1,0 +1,53 @@
+.section-card {
+  width: 90%;
+  max-width: 900px;
+  margin: 30px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.section-card h2 {
+  color: black;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+}
+
+.section-card input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.section-card button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.project-card {
+  background: #f8fafc;
+  border-left: 4px solid #2563eb;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+
+.project-card h3 {
+  color: #222;
+}
+
+.project-card p {
+  color: #666;
+  margin: 10px 0;
+}
+
+.project-card a {
+  text-decoration: none;
+  font-weight: 600;
+}
